@@ -1,0 +1,23 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haran399/Fullstack.git"
+  },
+  "author": "haran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haran399/Fullstack/issues"
+  },
+  "homepage": "https://github.com/haran399/Fullstack#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
