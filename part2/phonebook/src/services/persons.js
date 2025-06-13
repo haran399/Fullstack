@@ -1,5 +1,5 @@
 import axios from "axios";
-const baseUrl ='http://localhost:3005/persons'
+const baseUrl ='/api/phonenumbers'
 
 const getAll =() =>
 {
